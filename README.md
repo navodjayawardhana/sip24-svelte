@@ -6,4 +6,3 @@
 5. Commit your changes and push them to your forked repository.
 6. Create a pull request to the main repository.
 
-These challenges are designed to push your skills further and give you hands-on experience with more complex application features.
